@@ -15,7 +15,7 @@
 
 
 /**
-* Create an Amazon DynamoDB table.
+* Create an Amazon DynamoDB table called 'Teams'
 */
 
 int main(int argc, char** argv)
