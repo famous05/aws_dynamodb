@@ -6,7 +6,7 @@
 
 2. Compile and run put_item.cpp
 
-	put_item Teams 0 Champion=false Country=Germany League=Bundesliga Name=Bayern Rating=0.98\n";
+	put_item Teams 0 Champion=false Country=Germany League=Bundesliga Name=Bayern Rating=0.98;
 	
 	Run more times to POST more items to database
 	
